@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #E1C16E;
+    border-bottom: 3px solid #E1C16E;
+    padding-bottom: 10px;
+    border-radius: 50%;
+}
+
+a {
+    color: #2C3E50;
+    font-size: large;
+}
